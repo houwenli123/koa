@@ -11,5 +11,5 @@ async function test() {
     console.log(v1);
 }
 
-test()
+test();
 console.log("234")
